@@ -26,3 +26,6 @@ A Hohmann Transfer is the most fuel-efficient way to move a satellite between tw
 ## How to run
 
 python orbital_maneuver.py
+
+## Author
+Built by Mark Khachaturyan as part of my engineering portfolio
